@@ -53,7 +53,7 @@
 </job>
 <job>
     <title><![CDATA[JOB 5]]></title>
-    <description><![CDATA[This is job 5]]></description>
+    <description><![CDATA[This is job 5 test]]></description>
     <company><![CDATA[Company 5]]></company>
     <ref_no><![CDATA[REFJOB5]]></ref_no>
     <city><![CDATA[Washington]]></city>
